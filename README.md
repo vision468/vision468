@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a educational cms
+🌱 I’m currently learning CI/CD
+📫 How to reach me: mail.amirhosseinebrahimi@gmail.com
+⚡ Fun fact: After all these activities, I am still a student in a university that hinders my progress.
 <!--
 **vision468/vision468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
