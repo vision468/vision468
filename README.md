@@ -22,19 +22,22 @@ I am familiar with the principles of software and artificial intelligence, and p
 
 ## Languages 🌍
 
+- **Persian** (Native)
 - **English** | Intermediate
 
 ## Software Skills 💻
 
-| **Microsoft Powerpoint** | Advanced | **Html & CSS** | Advanced | **JavaScript** | Advanced |
-|---------------------------|----------|----------------|----------|----------------|----------|
-| **Microsoft Word**        | Advanced | **TypeScript** | Advanced | **Next.js**    | Advanced |
-| **MongoDB**               | Advanced | **Figma**      | Intermediate | **Docker** | Intermediate |
-| **Kubernetes**            | Intermediate | **Microsoft Excel** | Intermediate | **Microsoft Access** | Intermediate |
-| **Google Analytics**      | Intermediate | **OpenCV**     | Intermediate | **Keras** | Intermediate |
-| **Node.js**               | Intermediate | **GIT**        | Intermediate | **Rest API** | Intermediate |
-| **React**                 | Intermediate | **C++**        | Intermediate | **C** | Intermediate |
-| **Python**                | Intermediate | **Linux**      | Basic |
+| **Programming Languages** | **Web Development** | **Tools** | **Microsoft Tools** |
+|---------------------------|---------------------|------------------|---------------------|
+| **JavaScript** - Advanced | **Next.js** - Advanced | **OpenCV** - Intermediate | **Microsoft Powerpoint** - Advanced |
+| **TypeScript** - Advanced | **MongoDB** - Advanced | **Keras** - Intermediate | **Microsoft Word** - Advanced |
+| **C++** - Intermediate | **Html & CSS** - Advanced | **Tensor** - Intermediate | **Microsoft Excel** - Intermediate |
+| **C** - Intermediate | **Node.js** - Intermediate | **Google Analytics** - Intermediate | **Microsoft Access** - Intermediate |
+| **Python** - Intermediate | **React** - Intermediate | **Docker** - Intermediate |  |
+|  | **Rest API** - Intermediate | **Kubernetes** - Intermediate |  |
+|  | **Figma** - Intermediate | **GIT** - Intermediate  |  |
+
+
 
 ## Additional Skills 🚀
 
@@ -49,7 +52,7 @@ I am familiar with the principles of software and artificial intelligence, and p
 
 - **Champion** of the Brazilian Student Smart Soccer Simulation Competition as a coach. (2021)
 - Participated as a coach in the **17th Iran Open competitions**, RMRC league. (2023)
-- Served as a referee in the **RoboCup competitions** at Noshirvani University of Technology, Babol, in the Smart Soccer league. (2023)
+- Served as a referee in the **RainoCup competitions** at Noshirvani University of Technology, Babol, in the Smart Soccer league. (2023)
 - **ORAL presentation** in the 7th international conference on Pattern Recognition and Image Analysis. (2024)
 
 ## Projects & Academic Experiences 📚
