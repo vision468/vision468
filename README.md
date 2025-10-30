@@ -6,19 +6,31 @@ I am familiar with the principles of software and artificial intelligence, and p
 
 ## Work Experience 🛠️
 
+### Permanent Self-Learner
+**For All Time, Always**
+
+### Software Engineer / AI/ML
+**Cactus Co.**
+- Software and Artificial Intelligence Expert
+
 ### Front-end Developer 🌐
-**Hush Afzar Sanat Shegerf**  
+**Hush Afzar Sanat Shegerf C0.**  
 - Designed user interfaces for admin panels.
 
 ### Training Coach 🎓
-**Cactus Company**  
+**Cactus Co.**  
 - Trained and mentored students.
 - Participated as a coach in competitions.
 
 ## Education 🎓
 
+### Master: Bioinformatics 🖥️
+**Mazandaran University of Science and Technology**
+
 ### Bachelor: Software Engineering 🖥️
 **Mazandaran University of Science and Technology**
+
+
 
 ## Languages 🌍
 
