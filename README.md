@@ -6,10 +6,10 @@ I am familiar with the principles of software and artificial intelligence, and p
 
 ## Work Experience 🛠️
 
-### Permanent Self-Learner
+### Permanent Self-Learner 📝
 **For All Time, Always**
 
-### Software Engineer / AI/ML
+### Software Engineer / AI/ML 🧠
 **Cactus Co.**
 - Software and Artificial Intelligence Expert
 
@@ -17,14 +17,14 @@ I am familiar with the principles of software and artificial intelligence, and p
 **Hush Afzar Sanat Shegerf C0.**  
 - Designed user interfaces for admin panels.
 
-### Training Coach 🎓
+### Training Coach 🤖
 **Cactus Co.**  
 - Trained and mentored students.
 - Participated as a coach in competitions.
 
 ## Education 🎓
 
-### Master: Bioinformatics 🖥️
+### Master: Bioinformatics 🧬
 **Mazandaran University of Science and Technology**
 
 ### Bachelor: Software Engineering 🖥️
